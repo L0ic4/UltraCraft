@@ -50,7 +50,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or feedback, please open an issue on our [GitHub Issues](https://github.com/your-repo/UltraCraft/issues) page.
+For any questions or feedback, please open an issue on our [GitHub Issues](https://github.com/L0ic4/UltraCraft/issues) page.
 
 ---
 
