@@ -43,15 +43,6 @@
 ## Contributions
 
 We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or feedback, please open an issue on our [GitHub Issues](https://github.com/L0ic4/UltraCraft/issues) page.
-
 ---
 
 Enjoy your enhanced Minecraft adventure with UltraCraft!
